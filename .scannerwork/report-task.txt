@@ -1,0 +1,6 @@
+projectKey=gestion_escuela
+serverUrl=http://localhost:9000
+serverVersion=26.10.0.133078
+dashboardUrl=http://localhost:9000/dashboard?id=gestion_escuela
+ceTaskId=e8b95c70-78bc-4fd1-b36e-009ef3bf3557
+ceTaskUrl=http://localhost:9000/api/ce/task?id=e8b95c70-78bc-4fd1-b36e-009ef3bf3557
